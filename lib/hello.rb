@@ -16,3 +16,5 @@ def hello_t(array)
   end
 end
 
+lib/hello.rb
+
